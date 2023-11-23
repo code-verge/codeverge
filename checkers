@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
+<link href="assets/images/favicon.png" rel="icon" />
+<title>Discover the Classic Game of Checkers at Play-Checkers.Online</title>
+<meta name="description" content="Your ThemeForest item Name and description">
+<meta name="author" content="harnishdesign.net">
+
+<!-- Stylesheet
+============================== -->
+<!-- Bootstrap -->
+<link rel="stylesheet" type="text/css" href="assets/vendor/bootstrap/css/bootstrap.min.css" />
+<!-- Font Awesome Icon -->
+<link rel="stylesheet" type="text/css" href="assets/vendor/font-awesome/css/all.min.css" />
+<!-- Magnific Popup -->
+<link rel="stylesheet" type="text/css" href="assets/vendor/magnific-popup/magnific-popup.min.css" />
+<!-- Highlight Syntax -->
+<link rel="stylesheet" type="text/css" href="assets/vendor/highlight.js/styles/github.css" />
+<!-- Custom Stylesheet -->
+<link rel="stylesheet" type="text/css" href="assets/css/stylesheet.css" />
+</head>
+
+<body data-spy="scroll" data-target=".idocs-navigation" data-offset="125">
+
+<!-- Preloader -->
+<div class="preloader">
+  <div class="lds-ellipsis">
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+  </div>
+</div>
+<!-- Preloader End --> 
+
+<!-- Document Wrapper   
+=============================== -->
+<div id="main-wrapper"> 
+  
+  <!-- Header
+  ============================ -->
+  <header id="header" class="sticky-top"> 
+    <!-- Navbar -->
+    <nav class="primary-menu navbar navbar-expand-lg navbar-dropdown-dark">
+      <div class="container-fluid">
+        <!-- Sidebar Toggler -->
+		<button id="sidebarCollapse" class="navbar-toggler d-block d-md-none" type="button"><span></span><span class="w-75"></span><span class="w-50"></span></button>
+		
+		<!-- Logo --> 
+        <a class="logo ml-md-3" href="index.html" title="iDocs Template"> <img src="assets/images/logo.png" alt="iDocs Template"/> </a> 
+		<span class="text-2 ml-2">v1.0</span> 
+        <!-- Logo End -->
+        
+		<!-- Navbar Toggler -->
+		<button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#header-nav"><span></span><span></span><span></span></button>
+        
+      </div>
+    </nav>
+    <!-- Navbar End --> 
+  </header>
+  <!-- Header End --> 
+  
+  <!-- Content
+  ============================ -->
+  <div id="content" role="main">
+    
+	<!-- Sidebar Navigation
+	============================ -->
+	<div class="idocs-navigation bg-light">
+      <ul class="nav flex-column ">
+        <li class="nav-item"><a class="nav-link active" href="#idocs_start">Checkers Online</a>
+          <ul class="nav flex-column">
+            <li class="nav-item"><a class="nav-link" href="#idocs_1">Overview</a></li>
+            <li class="nav-item"><a class="nav-link" href="#idocs_2">Easy Access</a></li>
+            <li class="nav-item"><a class="nav-link" href="#idocs_3">Connect with Players</a></li>
+            <li class="nav-item"><a class="nav-link" href="#idocs_4">All Skill Levels</a></li>
+            <li class="nav-item"><a class="nav-link" href="#idocs_5">Free to Play</a></li>
+            <li class="nav-item"><a class="nav-link" href="#idocs_6">Safe and Secure</a></li>
+            <li class="nav-item"><a class="nav-link" href="#idocs_7">Welcome!</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+    
+    <!-- Docs Content
+	============================ -->
+    <div class="idocs-content">
+      <div class="container"> 
+        
+        <!-- Getting Started
+		============================ -->
+        <section id="idocs_start">
+        <h1>Discover the Classic Game of Checkers at Play-Checkers.Online</h1>
+        <p class="lead">Welcome to <a class="ml-1" target="_blank" href="https://play-checkers.online/">CodeVerge <i class="fas fa-external-link-alt"></i></a> - your go-to destination to play board games!</p>
+		<hr>
+        <p class="alert alert-info">If you have any questions that are beyond the scope of this page, Please feel free to email via the <a target="_blank" href="https://play-checkers.online/contact">Contact us Page</a>.</p>
+        </section>
+		
+        <!-- Installation
+		============================ -->
+        <section id="idocs_1">
+          <p>In an era where digital games often mean high-end graphics and complex gameplay, Play-Checkers.Online is bringing it back to the classics. Checkers, a game steeped in history and loved by generations, is now just a click away. This free online platform offers a seamless gaming experience for both beginners and seasoned players. Here's why you should join the community of players at Play-Checkers.Online.</p>
+        </section>
+        
+		<hr class="divider">
+		
+        <!-- HTML Structure
+		============================ -->
+        <section id="idocs_2">
+          <h2>Easy Access and User-Friendly Interface</h2>
+          <p>At Play-Checkers.Online, accessibility is key. The website is designed for easy navigation, allowing players to jump into a game of checkers with minimal fuss. Whether you're on a break or relaxing at home, a game of checkers is always at your fingertips. No downloads, no complicated sign-ups – just straightforward fun.</p>
+        </section>
+        
+		<hr class="divider">
+		        
+    <!-- Sass
+    ============================ -->
+        <section id="idocs_3">
+          <h2>Connect with Players Worldwide</h2>
+          <p>One of the standout features of Play-Checkers.Online is its ability to connect you with a global community of checkers enthusiasts. Play against friends or challenge opponents from around the world. This platform isn’t just about playing; it’s about connecting, learning new strategies, and being part of a global checkers community.</p>
+        </section>
+        
+    <hr class="divider">
+    
+    <!-- Sass
+    ============================ -->
+        <section id="idocs_4">
+          <h2>Suitable for All Skill Levels</h2>
+          <p>Whether you're a beginner or a checkers pro, Play-Checkers.Online caters to all skill levels. The platform offers a range of options to suit your style, from casual games to more competitive matches. Plus, there are resources available for beginners to learn the basics and improve their game.</p>
+        </section>
+        
+    <hr class="divider">
+    
+    <!-- Sass
+    ============================ -->
+        <section id="idocs_5">
+          <h2>Free to Play</h2>
+          <p>What’s better than a good game of checkers? A free game of checkers! Play-Checkers.Online is completely free, making it accessible to everyone. This commitment to free access ensures that the joy of checkers can be shared by all, regardless of their financial situation.</p>
+        </section>
+        
+    <hr class="divider">
+    
+    <!-- Sass
+    ============================ -->
+        <section id="idocs_6">
+          <h2>Safe and Secure</h2>
+          <p>Safety is paramount at Play-Checkers.Online. The platform is designed with player security in mind, ensuring a safe and enjoyable gaming experience. This peace of mind allows players to focus on what's important – enjoying the game.</p>
+        </section>
+        
+    <hr class="divider">
+    
+		<!-- Color Schemes
+		============================ -->
+        <section id="idocs_7">
+          <h2>Welcome!</h2>
+          <p>Play-Checkers.Online is more than just a gaming site; it's a destination for those who appreciate the timeless joy of checkers. Whether you’re looking to kill time, improve your strategic thinking, or connect with fellow checkers players, this platform has something for everyone. Head over to https://play-checkers.online and experience the classic game of checkers like never before!</p>
+          <p class="text-4">Want to get in touch with us?</p>
+		  <p class="alert alert-info mb-5">You can find us here : <a target="_blank" href="https://facebook.com/codeverge">@facebook</a> / <a target="_blank" href="https://twitter.com/_codeverge">@twitter</a> / <a target="_blank" href="https://github.com/code-verge">@GitHub</a> / <a target="_blank" href="https://gitlab.com/codeverge">@GitLab</a></p>
+          
+        </section>        
+        
+      </div>
+    </div>
+	
+  </div>
+  <!-- Content end --> 
+  
+  <!-- Footer
+  ============================ -->
+  <footer id="footer" class="section bg-dark footer-text-light">
+    <div class="container">
+      <ul class="social-icons social-icons-lg social-icons-muted justify-content-center mb-3">
+        <li><a data-toggle="tooltip" href="https://facebook.com/codeverge" target="_blank" title="" data-original-title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
+        <li><a data-toggle="tooltip" href="https://twitter.com/_codeverge" target="_blank" title="" data-original-title="Twitter"><i class="fab fa-twitter"></i></a></li>
+        <li><a data-toggle="tooltip" href="https://github.com/code-verge" target="_blank" title="" data-original-title="GitHub"><i class="fab fa-github"></i></a></li>
+        <li><a data-toggle="tooltip" href="https://gitlab.com/codeverge" target="_blank" title="" data-original-title="GitLab"><i class="fab fa-gitlab"></i></a></li>
+      </ul>
+    </div>
+  </footer>
+  <!-- Footer end -->
+  
+</div>
+<!-- Document Wrapper end --> 
+
+<!-- Back To Top --> 
+<a id="back-to-top" data-toggle="tooltip" title="Back to Top" href="javascript:void(0)"><i class="fa fa-chevron-up"></i></a> 
+
+<!-- JavaScript
+============================ -->
+<script src="assets/vendor/jquery/jquery.min.js"></script> 
+<script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script> 
+<!-- Highlight JS -->
+<script src="assets/vendor/highlight.js/highlight.min.js"></script> 
+<!-- Easing --> 
+<script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script> 
+<!-- Magnific Popup --> 
+<script src="assets/vendor/magnific-popup/jquery.magnific-popup.min.js"></script> 
+<!-- Custom Script -->
+<script src="assets/js/theme.js"></script>
+</body>
+</html>
